@@ -5,7 +5,7 @@ I am solving problems to strengthen my problem-solving skills and prepare for so
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics Covering
 - Arrays
 - Strings
 - Recursion
